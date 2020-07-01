@@ -1,0 +1,11 @@
+.h1,h2,h3 {
+    background-color: aqua;
+}
+
+.ul,li {
+    float: right;
+    /*padding-top: 5px;*/
+    padding-right: 20px;
+    /*padding-bottom: 5px;
+    padding-left: 4px;
+}
