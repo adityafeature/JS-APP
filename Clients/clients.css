@@ -1,3 +1,24 @@
 body {
     background-color: darkgoldenrod;
 }
+
+.cli1 {
+    list-style-type: none;
+}
+
+.cli2 {
+    list-style-type: none;
+}
+
+.cli3 {
+    float: left;
+    clear: left;
+    margin-left:1px;
+    margin-bottom: 5px;
+    border:solid black 1px;
+    padding:1px;
+
+    
+}
+
+

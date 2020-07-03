@@ -16,8 +16,8 @@ body {
 
 /* Add a black background color to the top navigation */
 .ref {
-    background-color: rgba(11, 93, 224, 0.959);
-    overflow: hidden;
+    background-color: rgba(156, 146, 7, 0.829);
+    overflow: auto;
   }
   
   /* Style the links inside the navigation bar */
@@ -32,7 +32,7 @@ body {
   
   /* Change the color of links on hover */
   .ref a:hover {
-    background-color: #ddd;
+    background-color: rgba(23, 41, 209, 0.356);
     color: black;
   }
   
@@ -45,3 +45,24 @@ body {
 .ref1 li{
   list-style-type: none;
 }
+
+.img {
+  border-radius: 70%;
+}
+
+.awesome {
+    color: red;
+}
+
+.caption-wrap {
+  width: auto;
+}
+
+.caption-wrap p {
+  margin-top: 10px;
+      width: auto;
+}
+
+/* 
+ margin-top: 10px;
+*/
